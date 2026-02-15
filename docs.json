@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Q&A",
+        "tab": "AiKnowledgebase",
         "groups": [
           {
-            "group": "Questions",
+            "group": "AccountRelated",
             "pages": [
               "q-and-a"
             ]
