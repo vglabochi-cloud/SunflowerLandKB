@@ -15,9 +15,7 @@
         "groups": [
           {
             "group": "AccountRelated",
-            "pages": [
-              "docs/q-and-a"
-            ]
+            "pages": []
           }
         ]
       }
